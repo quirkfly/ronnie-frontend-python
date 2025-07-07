@@ -2,8 +2,6 @@
 
 Streamlit-based frontend for the **Ronnie AI Job Hunting Assistant**, built to help users upload their LinkedIn PDF resume and chat with an AI assistant to find jobs.
 
-![Screenshot](images/ronnie_ui_screeshot.png)
-
 ---
 
 ## 📦 Features
